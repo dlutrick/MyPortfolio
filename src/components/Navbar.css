@@ -6,7 +6,7 @@ body {
 
 /* Navigation */
 .navigation {
-  background-color: black;
+  background-color: transparent;
 }
 
 .nav-top {
@@ -22,7 +22,7 @@ body {
 }
 
 .logo {
-  color: white;
+  color: #66fcf1;
   cursor: pointer;
 }
 
@@ -43,7 +43,7 @@ body {
   }
 
   #hamburger_icon {
-    color: white;
+    color: #66fcf1;
     cursor: pointer;
   }
 

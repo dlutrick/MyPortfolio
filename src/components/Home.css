@@ -1,0 +1,16 @@
+h1 {
+  color: #66fcf1;
+}
+
+.video_card {
+  padding: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  background-color: #1f2833;
+  border-radius: 5px;
+}
+
+.video_card_content {
+  text-align: center;
+  color: white;
+}

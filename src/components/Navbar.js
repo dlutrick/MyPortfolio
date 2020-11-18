@@ -19,16 +19,16 @@ function Navbar() {
           ></i>
         </div>
         <div className="nav_links" id="menu">
-          <a href="#" className="nav_link">
+          <a href="Home.js" className="nav_link">
             Home
           </a>
-          <a href="#" className="nav_link">
+          <a href="About.js" className="nav_link">
             About
           </a>
-          <a href="#" className="nav_link">
+          <a href="Contact.js" className="nav_link">
             Contact
           </a>
-          <a href="#" className="nav_link">
+          <a href="Portfolio.js" className="nav_link">
             Portfolio
           </a>
           <a href="#" className="nav_link">
